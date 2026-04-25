@@ -15,4 +15,4 @@ Gen-Z Study Slay takes complex academic paragraphs and uses **Gemini 3 Flash Pre
 
 ## 🧠 Built With
 * **Gemini 3 Flash Preview** (via Google Generative AI SDK)
-* **Python**# gemini-hackthon
+* **Python**# gemini-hackathon
